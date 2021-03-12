@@ -21,7 +21,7 @@ client.on('message', message => {
 		.setColor('#16ec50')
 		.setTitle('EmbedBot')
 		.setDescription('These are the current EmbedBot Commands!')
-		.setAuthor('Created by SoCuul', 'https://i.imgur.com/lKuBaAt.png', '')
+		.setAuthor('Coded by Abhay', 'https://i.imgur.com/lKuBaAt.png', '')
 		.addFields(
 			{ name: 'Send embed', value: `${config.prefix}embed Title_Message`},
 			{ name: 'Send custom colour embed (In HEX or HTML Colour Names)', value: `${config.prefix}colourembed Colour_Title_Message`},
