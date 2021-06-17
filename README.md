@@ -5,7 +5,7 @@ This is a Discord Bot created to send embedded messages with commands! Written i
 Before downloading the bot files, 
 - Install [node.js](https://nodejs.org/en/download/).
 
-Then fork the repo to your computer.
+Then clone the repo to your computer.
 
 Run `npm install`
 
