@@ -1,5 +1,5 @@
 {
-  "prefix": "!!!",
+  "prefix": "BOT_PREFIX",
   "token": "BOT_TOKEN",
-  "staffid": "584965014797156362"
+  "staffid": "STAFF_ID"
 }
