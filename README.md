@@ -1,5 +1,5 @@
 # DPCraft Announcer Bot
-This is a Discord Bot created to send embedded messages with commands! Written in Discord.js 12
+This is a Discord Bot created to send embedded messages with commands! Written in Discord.js 12.
 
 Minecraft Server: 
 `play.dpcraftnetwork.com`
