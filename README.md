@@ -10,7 +10,7 @@ Before downloading the bot files,
 
 Then clone the repo to your computer.
 
-Run `npm install`
+Run `npm install`.
 
 Open the config.json file and modify it to your configuration.
 Finally, Type `node index.js`
