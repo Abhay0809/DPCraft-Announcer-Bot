@@ -6,7 +6,7 @@ Minecraft Server:
 
 # Setup
 Before downloading the bot files, 
-- Install [node.js](https://nodejs.org/en/download/).
+- Install [node.js](https://nodejs.org/en/download/)
 
 Then clone the repo to your computer.
 
